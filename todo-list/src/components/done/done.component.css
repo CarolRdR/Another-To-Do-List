@@ -1,0 +1,26 @@
+.done-list-container {
+  margin-top: 2rem;
+  background-color: #227093;
+  min-height: 100vh;
+}
+
+.done-card-title {
+  display: flex;
+  justify-content: left;
+  color: white;
+  border-bottom: 2px solid rgb(255, 255, 255);
+}
+h1 {
+  margin: 1rem 2rem 1rem 2rem;
+  font-weight: lighter;
+  font-size: 1.5rem;
+}
+.done-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #227093;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  width: 400px;
+}

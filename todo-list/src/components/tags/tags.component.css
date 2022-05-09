@@ -1,0 +1,11 @@
+.tags-container {
+  display: flex;
+  justify-content: left;
+  flex-direction: row;
+  padding: 0.8rem;
+}
+.tag {
+  border-radius: 0.6rem;
+  padding: 0.3rem 0.3rem;
+  margin: 0 0.2rem;
+}
